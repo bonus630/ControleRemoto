@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MPC Controle Remoto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_lista_arquivos">Lista de Arquivos</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="voltar">--</string>
+    <string name="avancar">>></string>
+    <string name="title_activity_config">Configurações</string>
+    
+
+</resources>
